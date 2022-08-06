@@ -13,6 +13,9 @@ h1,
 h2 {
     text-align: center;
 }
+section h2 {
+    color:rgb(140, 124, 211);
+}
 img {
     display: block;
     height: 50px;
